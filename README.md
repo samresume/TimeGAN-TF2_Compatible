@@ -1,4 +1,4 @@
-# Codebase for "Time-series Generative Adversarial Networks (TimeGAN)"
+# TensorFlow 2 Compatible Codebase for "Time-series Generative Adversarial Networks (TimeGAN)"
 
 Authors: Jinsung Yoon, Daniel Jarrett, Mihaela van der Schaar
 
